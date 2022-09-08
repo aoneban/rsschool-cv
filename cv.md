@@ -1,10 +1,11 @@
 # Ashot Bahiran
 
-## ***Web Developer***
+***Web Developer***
 
 ___
 
-## Contact
+__Contact__
+
 **Phone:** +48 505 643 923
 
 **Email:** torgregion1@gmail.com
@@ -15,13 +16,14 @@ ___
 
 ___
 
-## A little bit about me
+__A little bit about me__
+
 > I am an innovative, creative developer who is adept at coming up with real solutions that work for clients. As a person, I am pro-active, responsible and quality oriented. I have strong analytical skills and a structured way of working and the courage to try new things. 
 >
 
 ___
 
-## Skills
+__Skills__
 
 Hardskills | Softskills
 :------:|:------:
@@ -34,7 +36,7 @@ TypeScript | problem-solving
 
 ___
 
-## Code example
+__Code example__
 ```
 Write a function that takes in a string of one or more words, and returns the same string, but with all five or more letter words reversed (Just like the name of this Kata). Strings passed in will consist of only letters and spaces. Spaces will be included only when more than one word is present.
 
@@ -51,7 +53,7 @@ function spinWords(string){
 ```
 ___
 
-## Education
+__Education__
 
 used to increase the level of self-education:
 - intensive Online Udemi courses, including assignments for practical work, as well as studied online courses on YouTube video hosting;
@@ -61,7 +63,7 @@ used to increase the level of self-education:
 
 ___
 
-## Languages
+__Languages__
 
 - English - Intermediate
 - Polish - Intermediate
