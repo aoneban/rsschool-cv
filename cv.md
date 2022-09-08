@@ -1,29 +1,29 @@
-[RssScool-CV]()
-## Ashot Bahiran
-#####_Web Developer_
+# Ashot Bahiran
+_Web Developer_
 ___
-##### Contact
+### Contact
 **Phone** +48 505 643 923
 **Email** torgregion1@gmail.com
-[LinkedIn](https://www.linkedin.com/in/ashot-bahiran-3a1ab022b/) [GitHub](https://github.com/aoneban)
+[LinkedIn](https://www.linkedin.com/in/ashot-bahiran-3a1ab022b/) 
+[GitHub](https://github.com/aoneban)
 ___
 
-##### A little bit about me
+### A little bit about me
 > I am an innovative, creative developer who is adept at coming up with real solutions that work for clients. As a person, I am pro-active, responsible and quality oriented. I have strong analytical skills and a structured way of working and the courage to try new things. 
 ___
 
-##### Skills
-| Hardskills | Softskills|
-| ------ | ------ |
-| HTML | quick learner |
-| CSS | analytical skills |
-| JavaScript | detail-oriented|
-| React | communication skills |
-| Node.js | teamwork|
-| TypeScript | problem-solving |
+### Skills
+ Hardskills | Softskills
+:------:|:------:
+ HTML | quick learner 
+ CSS | analytical skills 
+ JavaScript | detail-oriented
+ React | communication skills 
+ Node.js | teamwork
+ TypeScript | problem-solving 
 
 ___
-##### Code example
+### Code example
 ```
 Write a function that takes in a string of one or more words, and returns the same string, but with all five or more letter words reversed (Just like the name of this Kata). Strings passed in will consist of only letters and spaces. Spaces will be included only when more than one word is present.
 
@@ -39,7 +39,7 @@ function spinWords(string){
 }
 ```
 ___
-##### Education
+### Education
 used to increase the level of self-education:
 - intensive Online Udemi courses, including assignments for practical work, as well as studied online courses on YouTube video hosting;
 - solving practical tasks (https://www.codewars.com/, https://leetcode.com/);
@@ -47,7 +47,7 @@ used to increase the level of self-education:
 - additional specialized literature;
 ___
 
-##### Languages
+### Languages
 - English - Intermediate
 - Polish - Intermediate
 - Belorussian - Native
