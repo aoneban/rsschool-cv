@@ -46,3 +46,17 @@ function count (string) {
 ```
 
 ***
+
+### Experience
+
+ONLINE SUPERMARKET NOVYJ.BY MINSK (BELARUS)
+Full Stack Developer/Product Manager
+
+***
+
+### Education
+
+BELARUSIAN STATE ECONOMIC UNIVERSITY, MINSK
+Bachelor’s degree in Economy and Trade Marketing
+
+***
