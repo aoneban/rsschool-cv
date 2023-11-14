@@ -60,3 +60,16 @@ BELARUSIAN STATE ECONOMIC UNIVERSITY, MINSK
 Bachelor’s degree in Economy and Trade Marketing
 
 ***
+
+#### Languages
+
+English - B1;
+Belorussian - native;
+Russian - native;
+Polish - B1;
+
+***
+
+#### My project
+
+[ncinema](https://ncinema.netlify.app/)
