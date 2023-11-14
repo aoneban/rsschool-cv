@@ -30,3 +30,19 @@ _I am an innovative, creative developer who is adept at coming up with real solu
 8. Figma
 
 ***
+
+### Count characters in your string
+
+```
+
+function count (string) {  
+ let item = string.split('');
+   return item.reduce((accum, elem) => {
+    accum[elem] = (accum[elem] || 0) + 1;
+    return accum;
+  }, {});
+}
+
+```
+
+***
