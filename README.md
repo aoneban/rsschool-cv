@@ -1,1 +1,1 @@
-# https://aoneban.github.io/rsschool-cv/cv
+# https://aoneban.github.io/rsschool-cv/
