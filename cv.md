@@ -20,12 +20,12 @@ _I am an innovative, creative developer who is adept at coming up with real solu
 ***
 
 ### Skills:
-1. JavaScript
+1. JS
 2. CSS
 3. HTML
-4. Webpack
+4. Webpack, Vite
 5. TypeScript
-6. React
+6. Angular
 7. Git
 8. Figma
 
@@ -35,12 +35,8 @@ _I am an innovative, creative developer who is adept at coming up with real solu
 
 ```
 
-function count (string) {  
- let item = string.split('');
-   return item.reduce((accum, elem) => {
-    accum[elem] = (accum[elem] || 0) + 1;
-    return accum;
-  }, {});
+function SayHi() {  
+  alert('Hello Rs School!');
 }
 
 ```
@@ -63,13 +59,13 @@ Bachelor’s degree in Economy and Trade Marketing
 
 #### Languages
 
-English - B1;
 Belorussian - native;
+English - B2;
+Polish - B2;
 Russian - native;
-Polish - B1;
 
 ***
 
 #### My project
 
-[ncinema](https://ncinema.netlify.app/)
+[ncinema](https://allscreen.netlify.app/main)
