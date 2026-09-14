@@ -7,71 +7,128 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="header">
+    <header class="header">
       <h1>Ashot Bahiran</h1>
       <p>CV created by me.</p>
-    </div>
+    </header>
 
-    <main>
-      <nav>
-        <ul class="navbar">
+    <nav>
+      <div class="navbar">
+        <ul class="navbar_size">
           <li>
-            <a href="#">Link1</a>
+            <a href="https://google.com" target="_blank" rel="noopener noreferrer">Adress: Poznan, Poland</a>
           </li>
           <li>
-            <a href="#">Link2</a>
+            <a href="tel:+79991234567">Phone: +48 505 643 923</a>
           </li>
           <li>
-            <a href="#">Link3</a>
+            <a href="mailto:example@email.com">Email: torgregion1@gmail.com</a>
           </li>
           <li>
-            <a href="#" class="right">Link</a>
+            <a href="https://github.com/aoneban" target="_blank" rel="noopener noreferrer">GitHub: github.com/aoneban</a>
+          </li>
+          <li>
+            <a href="discord.com/channels/" target="_blank" rel="noopener noreferrer">Discord: Din Alt(@aoneban)</a>
           </li>
         </ul>
-      </nav>
+      </div>
+    </nav>
+    <main>
       <div class="row">
         <div class="side">
           <h2>About Me</h2>
           <h5>Photo of me:</h5>
-          <div class="fakeimg" style="height: 200px">Image</div>
-          <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
-          <h3>More Text</h3>
-          <p>Lorem ipsum dolor sit ame.</p>
-          <div class="fakeimg" style="height: 60px">Image</div>
+          <div class="fakeimg">
+            <img class="img" src="markdown.jpg" alt="avatar" />
+          </div>
+          <p class="about_me">
+            I'm a web developer from Poznan, Poland. In my spare time I enjoy
+            doing sport (football, bicycle), gaming and building my own
+            projects. My preferred tools are Angular, TypeScript(JavaScript),
+            Node.js and Vite. I'm constantly learning and searching for the best
+            solutions for web development.
+          </p>
+          <div class="fakeimg" style="height: 60px">Code example:</div>
           <br />
-          <div class="fakeimg" style="height: 60px">Image</div>
+          <div>
+            <pre>
+            function SayHi() {  
+              alert('Hello Rs School!');
+            }
+          </pre
+            >
+          </div>
           <br />
-          <div class="fakeimg" style="height: 60px">Image</div>
         </div>
         <div class="main">
-          <h2>TITLE HEADING</h2>
-          <h5>Title description, Dec 7, 2017</h5>
-          <div class="fakeimg" style="height: 200px">Image</div>
-          <p>Some text..</p>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint nam
-            obcaecati quibusdam sit tenetur iure eum, possimus, enim ducimus
-            quos numquam dolores quo ratione architecto dolorem expedita
-            asperiores? Quis ut obcaecati cumque accusamus eum qui...
-          </p>
+          <h2>MY SKILLS</h2>
+          <h5>Skills description, Dec 7, 2025</h5>
+          <div class="fakeimg">
+            <ul>
+              <li>
+                JavaScript (Fundamentals, Functional Programming, OOP,
+                Asynchronous JavaScript, ES6+, DOM), JSON.
+              </li>
+              <li>
+                Algorithms and Data structures (AVL, Binary trees, Graph,
+                sorting algorithms)
+              </li>
+              <li>TypeScript</li>
+              <li>Angular/NgRx/RxJs/Signals/Signal Store</li>
+              <li>HTML5, CSS3 (Bootstrap, SASS/SCSS, Tailwind, Material UI)</li>
+              <li>Node.js</li>
+              <li>Version control: Git (remote service GitHub)</li>
+              <li>Module Bundlers: Webpack, Vite</li>
+              <li>Editors: VSCode</li>
+            </ul>
+          </div>
           <br />
-          <h2>TITLE HEADING</h2>
-          <h5>Title description, Sep 2, 2017</h5>
-          <div class="fakeimg" style="height: 200px">Image</div>
-          <p>Some text..</p>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi
-            pariatur similique repellat mollitia ipsam expedita velit quod
-            aliquam aliquid, consequuntur rerum distinctio soluta accusantium
-            perspiciatis rem hic nesciunt at. Quae sapiente voluptatem animi
-            nobis repellat architecto eaque nam...
-          </p>
+          <h2>EDUCATION</h2>
+          <h5>Ed/Ex description, Sep 2, 2025</h5>
+          <div class="fakeimg">
+            <ul>
+              <li>
+                Belarusian State Economic University, Minsk Bachelor’s degree in
+                Economy and Trade Marketing
+              </li>
+              <li>Belarusian State University Of Physical Culture And Sport</li>
+              <li>RsSchool</li>
+              <li>Self-education</li>
+            </ul>
+          </div>
+          <br />
+          <h2>LANGUAGES</h2>
+          <h5>Lang description, Sep 2, 2025</h5>
+          <div class="fakeimg">
+            <ul>
+              <li>Belorussian: native</li>
+              <li>English: B2</li>
+              <li>Polish: B2</li>
+              <li>Russian: C1</li>
+            </ul>
+          </div>
+          <br />
+          <h2>PROJECTS</h2>
+          <h5>Pr. description, Sep 2, 2025</h5>
+          <div class="fakeimg">
+            <ul>
+              <li>
+                <a href="https://allscreen.netlify.app/main" target="_blank" rel="noopener noreferrer">AllScreen Cinema</a>
+              </li>
+            </ul>
+          </div>
+          <br />
         </div>
       </div>
     </main>
 
-    <div class="footer">
-      <h2>Footer</h2>
-    </div>
+    <footer class="footer">
+      <a href="https://rs.school/courses/javascript" target="_blank" rel="noopener noreferrer">
+        <img src="rs.jpg" alt="RsSchool" />
+      </a>
+      <a href="https://github.com/aoneban" target="_blank" rel="noopener noreferrer">
+        <img src="github.jpg" alt="github" />
+      </a>
+    </footer>
   </body>
 </html>
