@@ -101,6 +101,11 @@ main {
   line-height: 1.5rem;
 }
 
+.section-description {
+  font-size: 0.83em;
+  font-weight: bold;
+}
+
 .footer {
   display: flex;
   justify-content: space-evenly;
